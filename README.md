@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fathurrachman Damar Saputra</h1>
+<h1 align="center">Hi 👋, I'm Fathurrachman D. Saputra</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fathurds&label=Profile%20views&color=0e75b6&style=flat" alt="fathurds" /> </p>
 
 - My Portfolio: https://fathurds.github.io/
 
@@ -41,3 +43,5 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fathurds&show_icons=true&locale=en" alt="fathurds" /></p>
