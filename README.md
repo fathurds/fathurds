@@ -5,8 +5,6 @@
 
 - My Portfolio: https://fathurds.github.io/
 
-- 🌱 I’m currently learning **nodeJS, Express, MangoDB and React Native**
-
 - 👨‍💻 All of my projects are available at [https://github.com/fathurds](https://github.com/fathurds)
 
 - 💬 Ask me about **anything**
