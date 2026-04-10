@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathurds&label=Profile%20views&color=0e75b6&style=flat" alt="fathurds" /> </p>
 
-- My Portfolio: https://fathurds.github.io/
+- My Portfolio: [https://fathurds.netlify.app/](https://fathurds.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/fathurds](https://github.com/fathurds)
 
